@@ -18,7 +18,13 @@
 |  differences | Disregard of Most Modern Software Engineering Methods  |
 |   | Creating a Shared Understanding of a Code is Difficult |
 
-### CS Projects Selected for this study
+Approaches to reproduce results for each beliefs: 
+1) https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing
+
+
+
+
+### Data (CS Projects Selected for this study):
 
 <table>
                           <tr>
