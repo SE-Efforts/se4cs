@@ -21,13 +21,13 @@
 
 
 a) Labelled Commits:
-- Retrieve the commits data by running ```python python commits/commits_data.py```, file can be adjusted to subset a sample for manual labelling. 
+- Retrieve the commits data by running ```python commits/commits_data.py```, file can be adjusted to subset a sample for manual labelling. 
 - The guideline for the labelling is included [here](https://github.com/se4cs/se4cs/blob/master/labelling_guide.md). 
 
 b) Github Attributes of the projects: 
 - Update the `access_token` column in `data/project_list_[cs/se]` with your Github token.
-- Retrieve the cs or se projects attributes by running ```python python attributes/mine_attributes.py [cs/se]```.  
-- Plot the box plots comparison graph of SE and CS by ```python python attributes/plot_attributes.py``` 
+- Retrieve the cs or se projects attributes by running ```python attributes/mine_attributes.py [cs/se]```.  
+- Plot the box plots comparison graph of SE and CS by ```python attributes/plot_attributes.py``` 
 
 Approaches to reproduce results for each beliefs: 
 
