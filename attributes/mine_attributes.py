@@ -10,10 +10,10 @@ from get_attributes import repo_attributes_reader
 
 def get_projects_attributes(p_type):
     if p_type == 'cs':
-        fname = "project_list_cs.csv"
+        fname = "data/project_list_cs.csv"
         output_file = 'cs_projects_with_other_attributes.csv'
     else:
-        fname = "se_projects_with_other_attributes.csv"
+        fname = "data/project_list_se.csv"
         output_file = 'se_projects_with_other_attributes.csv'
 
     source_projects = up(os.getcwd()) + fname
