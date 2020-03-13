@@ -11,16 +11,35 @@
 | computer | Intermingling of Domain Logic and Implementation Details |
 | hardware | Conflicting Software Quality Requirements  |
 | | |
-|   | Few Scientists are Trained in Software Engineering |
-|  limitations  | Different Terminology  |
-| of   | Scientific Software in Itself has No Value But Still It is Long-Lived  |
-| cultural  | Little Code Reuse |
-|  differences | Disregard of Most Modern Software Engineering Methods  |
-|   | Creating a Shared Understanding of a Code is Difficult |
+|  | Different Terminology  |
+|  limitations | Creating a Shared Understanding of a Code is Difficult |
+| of  | Little Code Reuse |
+|  cultural  | Scientific Software in Itself has No Value But Still It is Long-Lived  |
+| differences  | Few Scientists are Trained in Software Engineering |
+|   | Disregard of Most Modern Software Engineering Methods  |
+
+
+
+a) Labelled Commits:
+- Retrieve the commits data by running ```python python commits/commits_data.py```, file can be adjusted to subset a sample for manual labelling. 
+- The guideline for the labelling is included [here](https://github.com/se4cs/se4cs/blob/master/labelling_guide.md). 
+
+b) Github Attributes of the projects: 
+- Update the `access_token` column in `data/project_list_[cs/se]` with your Github token.
+- Retrieve the cs or se projects attributes by running ```python python attributes/mine_attributes.py [cs/se]```.  
+- Plot the box plots comparison graph of SE and CS by ```python python attributes/plot_attributes.py``` 
 
 Approaches to reproduce results for each beliefs: 
-1) https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing
 
+1.a) https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing
+
+1.b) Manual Labels of the commits from (a)
+
+2.b) and 3.f) Manual checking for the language usage and the Travis CI of all projects
+
+2.c) Combination results taken from 1.a) and 1.b) 
+
+3.d) 1.a), 3.b), and 3.c)
 
 
 
