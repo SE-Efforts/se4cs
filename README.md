@@ -1,4 +1,4 @@
-# SE4CS: The Changing Nature of Computational Science 
+# SE4CS: What Do  We (Really) Know About Scientific Software?
 
 | Category  | Characteristic |
 |:-:|---|
