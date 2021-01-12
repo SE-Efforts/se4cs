@@ -6,6 +6,7 @@ import numpy as np
 import shlex
 from collections import Counter
 
+# projects with manual labeled commits
 filenames = ['ndslabs', 'hoomd', 'psi4', 'elasticsearch', 'trilinos',
              'dealii', 'galaxy', 'qcfractal', 'abinit',
              'quantum_package', 'clowder', 'hubzero', 'ompi',
