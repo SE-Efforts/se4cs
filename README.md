@@ -33,11 +33,9 @@ Approaches to reproduce results for each beliefs in section III:
 
 A.1) Manual checking for the language usage and the Travis CI of all projects
 
-A.2) [Figure 3](https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing) and Manual Labels of these commits.
+A.2) Figure 3 can be seen in this [spreadsheet](https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing) and Figure 2 is the result of manual Labels of these commits. Table IV results are drawn from running this [folder](https://github.com/msr2021/se4cs/tree/master/development_nature) 
 
-[Table IV](https://github.com/msr2021/se4cs/tree/master/development_nature) 
-
-B.1) [Table 6](https://docs.google.com/spreadsheets/d/11kCIFlkLD-3Jcx35AuF9v8EwGx7oZYE6Bb3Q4MQ2Pgk/edit?usp=sharing) and Manual Labels of the commits from (A.1)
+B.1) Table 6 can be seen in this [spreadsheet](https://docs.google.com/spreadsheets/d/11kCIFlkLD-3Jcx35AuF9v8EwGx7oZYE6Bb3Q4MQ2Pgk/edit?usp=sharing) and Manual Labels of the commits from (A.2)
 
 C.2) Based on the heroes paper code and social graphs [interactions](https://arxiv.org/pdf/1904.09954.pdf) can be reproduced from RQ1 and RQ2 in this [repo](https://github.com/Repoanonymous/MSR2021)
 
