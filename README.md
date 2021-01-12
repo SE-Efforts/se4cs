@@ -2,14 +2,14 @@
 
 | Category  | Characteristic |
 |:-:|---|
-| nature of  | Requirements are Not Known up Front  |
-| scientific | Verification and Validation are Difficult and Strictly Scientific  |
-| challenge | Overly Formal Software Processes Restrict Research  |
-| | |
 | limitations  | Development is Driven and Limited by Hardware |
 | of | Use of Old Programming Languages and Technologies  |
 | computer | Intermingling of Domain Logic and Implementation Details |
 | hardware | Conflicting Software Quality Requirements  |
+| | |
+| nature of  | Requirements are Not Known up Front  |
+| scientific | Verification and Validation are Difficult and Strictly Scientific  |
+| challenge | Overly Formal Software Processes Restrict Research  |
 | | |
 |  | Different Terminology  |
 |  limitations | Creating a Shared Understanding of a Code is Difficult |
@@ -29,17 +29,23 @@ b) Github Attributes of the projects:
 - Retrieve the cs or se projects attributes by running ```python attributes/mine_attributes.py [cs/se]```.  
 - Plot the box plots comparison graph of SE and CS by ```python attributes/plot_attributes.py``` 
 
-Approaches to reproduce results for each beliefs: 
+Approaches to reproduce results for each beliefs in section III: 
 
-1.a) https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing
+A.1) Manual checking for the language usage and the Travis CI of all projects
 
-1.b) Manual Labels of the commits from (a)
+A.2) [Figure 3](https://docs.google.com/spreadsheets/d/1qmoA3pzpi0oAhq0PtpVOfsRkTVmonvBD3zyLXPD0VPY/edit?usp=sharing) and Manual Labels of these commits.
 
-2.b) and 3.f) Manual checking for the language usage and the Travis CI of all projects
+[Table IV](https://github.com/msr2021/se4cs/tree/master/development_nature) 
 
-2.c) Combination results taken from 1.a) and 1.b) 
+B.1) [Table 6](https://docs.google.com/spreadsheets/d/11kCIFlkLD-3Jcx35AuF9v8EwGx7oZYE6Bb3Q4MQ2Pgk/edit?usp=sharing) and Manual Labels of the commits from (A.1)
 
-3.d) 1.a), 3.b) and 3.c)
+C.2) Based on the heroes paper code and social graphs [interactions](https://arxiv.org/pdf/1904.09954.pdf) can be reproduced from RQ1 and RQ2 in this [repo](https://github.com/Repoanonymous/MSR2021)
+
+C.3) Code reuse metrics are generated from this [folder]()
+
+C.4) Taken from Github attributes
+
+C.5) Combination of A.1 and C.2-4 
 
 
 
