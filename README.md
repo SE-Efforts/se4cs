@@ -1,22 +1,22 @@
 # SE4CS: What Do  We (Really) Know About Scientific Software?
 
-| Category  | Characteristic |
-|:-:|---|
-| limitations  | Development is Driven and Limited by Hardware |
-| of | Use of Old Programming Languages and Technologies  |
-| computer | Intermingling of Domain Logic and Implementation Details |
-| hardware | Conflicting Software Quality Requirements  |
+| Category  | Characteristic | Conclusion |
+|:-:|---|---|
+| limitations  | Development is Driven and Limited by Hardware | No-evidence |
+| of | Use of Old Programming Languages and Technologies  | Doubt |
+| computer | Intermingling of Domain Logic and Implementation Details | Endorse |
+| hardware | Conflicting Software Quality Requirements  | No-evidence |
 | | |
-| nature of  | Requirements are Not Known up Front  |
-| scientific | Verification and Validation are Difficult and Strictly Scientific  |
-| challenge | Overly Formal Software Processes Restrict Research  |
+| nature of  | Requirements are Not Known up Front  | No-evidence |
+| scientific | Verification and Validation are Difficult and Strictly Scientific  | Endorse |
+| challenge | Overly Formal Software Processes Restrict Research  | No-evidence |
 | | |
-|  | Different Terminology  |
-|  limitations | Creating a Shared Understanding of a Code is Difficult |
-| of  | Little Code Reuse |
-|  cultural  | Scientific Software in Itself has No Value But Still It is Long-Lived  |
-| differences  | Few Scientists are Trained in Software Engineering |
-|   | Disregard of Most Modern Software Engineering Methods  |
+|  | Different Terminology  | Endorse |
+|  limitations | Creating a Shared Understanding of a Code is Difficult | Doubt |
+| of  | Little Code Reuse | Doubt |
+|  cultural  | Scientific Software in Itself has No Value But Still It is Long-Lived  | Doubt |
+| differences  | Few Scientists are Trained in Software Engineering | Doubt |
+|   | Disregard of Most Modern Software Engineering Methods  | Doubt |
 
 
 
