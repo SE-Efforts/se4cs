@@ -39,7 +39,7 @@ Approaches to reproduce results for each beliefs:
 
 2.c) Combination results taken from 1.a) and 1.b) 
 
-3.d) 1.a), 3.b), and 3.c)
+3.d) 1.a), 3.b) and 3.c)
 
 
 
