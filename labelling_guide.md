@@ -1,19 +1,22 @@
 ### Commits categories:
 1) Science enhancement: any core science (e.g. an equation of Pascal triangle) that is being modified.
--- New diagonalization options for Matrix.  
--- A damping factor introduced in orbital response equations, as suggested by Rendell et al. (JCP, vol. 87, pp. 5976, 1987).
--- Add cc-pwCVXZ tight functions for Li, Be, Na, Mg from Prascher 2010
+    - New diagonalization options for Matrix.  
+
+    - A damping factor introduced in orbital response equations, as suggested by Rendell et al. (JCP, vol. 87, pp. 5976, 1987).
+
+    - Add cc-pwCVXZ tight functions for Li, Be, Na, Mg from Prascher 2010
 2) Engineering enhancement: any other enhancements that related to code complexity (e.g. other data structures, data types, input/output, etc) 
--- DPD library now requests the memory from Proccess::evironment
--- Be a bit more efficient by using assign-once variables.
--- The purpose of this patch is to align the finite element classes with the way the mapping classes have already been converted.
+    - DPD library now requests the memory from Proccess::evironment
+
+    - Be a bit more efficient by using assign-once variables.
+
+    - The purpose of this patch is to align the finite element classes with the way the mapping classes have already been converted.
 3) Testing:
-- Scientific testing would be testing the modeling/science aspect of the project/software
--- modified test to require displacement maximum to reach fixed coord goal.
-- Engineering testing would be testing the code complexity 
--- testing integral array size 
+    - Scientific testing would be testing the modeling/science aspect of the project/software
+        - modified test to require displacement maximum to reach fixed coord goal.
+    - Engineering testing would be testing the code complexity 
+        - testing integral array size 
 4) Bug fixes: Fixing software faults reported or found within thedevelopment.
-- Testing: evaluate the functionality of a software application (e.g.scientific calculations to output/input formats).
 5) Other: not core changes, e.g. renaming or formatting changes.
 
 ### Our reviewers labeled commits using the following guidelines:
