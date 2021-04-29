@@ -8,7 +8,7 @@
 | hardware | Conflicting Software Quality Requirements  | No-evidence |
 | | |
 | nature of  | Requirements are Not Known up Front  | No-evidence |
-| scientific | Verification and Validation are Difficult and Strictly Scientific  | Endorse |
+| scientific | Verification and Validation are Difficult and Strictly Scientific  | No-evidence/Endorse |
 | challenge | Overly Formal Software Processes Restrict Research  | No-evidence |
 | | |
 |  | Different Terminology  | Endorse |
